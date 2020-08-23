@@ -1,5 +1,6 @@
 <?php
-    echo "Prueba GitKraken";
+    echo "Prueba Git Kraken";
+    echo "Practicando con Git Kraken";
 ?>
 
 
